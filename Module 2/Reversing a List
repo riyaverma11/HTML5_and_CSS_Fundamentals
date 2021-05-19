@@ -2,7 +2,7 @@
   <body>
   <h3>How to reverse a list</h3>
     
-  <ol reversed>
+  <ol reversed title="Activity List">
       <li>This is the number 11</li>
       <li>This is the number 10</li>
       <li>This is the number 9</li>
